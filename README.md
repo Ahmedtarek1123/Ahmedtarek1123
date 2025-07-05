@@ -1,4 +1,4 @@
-![GitHub Banner](https://github.com/Ahmedtarek1123/Ahmedtarek1123/blob/main/banner.png)
+
 
 # 👋 Hi there, I'm Ahmed Tarek
 
