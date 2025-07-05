@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi there, I'm Ahmed Tarek
 
-<!--
-**Ahmedtarek1123/Ahmedtarek1123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Aspiring Data Analyst** from Egypt  
+📊 Skilled in **Excel, Power Query, Power Pivot, SQL Server**  
+📚 Currently learning **Power BI, Python, and Statistics**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- 🔢 [Programming Languages Ranking – SQL Server](https://github.com/Ahmedtarek1123/programming-languages-sql-server)
+- 📈 [Sales Dashboard – Excel & Power BI](https://github.com/Ahmedtarek1123/sales-analysis)
+- 🎓 [Student Performance Analysis](https://github.com/Ahmedtarek1123/student-data)
+
+---
+
+## 🧰 Tools & Skills
+- Excel (Pivot Tables, Charts, Power Query)
+- SQL Server (Joins, CTEs, Subqueries, Ranking)
+- Power BI (Dashboards, DAX - coming soon)
+- Python (Basics – coming soon)
+- Git & GitHub
+
+---
+
+## 📫 Contact Me
+- ✉️ Email: [at9736451@gmail.com](mailto:at9736451@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/ahmedtarek](https://linkedin.com/in/ahmedtarek) *(Add it if available)*
+
+---
+
+## 🧠 Goals
+- 📌 Build strong portfolio in data analysis
+- 📌 Apply for junior data analyst/internship roles
+- 📌 Keep learning every day 💪
