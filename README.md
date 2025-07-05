@@ -24,8 +24,7 @@
 
 ## 📫 Contact Me
 - ✉️ Email: [at9736451@gmail.com](mailto:at9736451@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/ahmedtarek](www.linkedin.com/in/ahmed-tarek-345550370) *(Add it if available)*
-
+- 💼 LinkedIn: [linkedin.com/in/ahmedtarek](www.linkedin.com/in/ahmed-tarek-345550370) 
 ---
 
 ## 🧠 Goals
