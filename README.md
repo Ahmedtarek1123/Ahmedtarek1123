@@ -9,7 +9,7 @@
 ---
 
 ## 🚀 Projects
-- 🔢 [Programming Languages Ranking – SQL Server](https://github.com/Ahmedtarek1123/programming-languages-sql-server)
+- 🔢 [Programming Languages Ranking – SQL Server](https://github.com/Ahmedtarek1123/SQL-SERVER)
 - 📈 [Sales Dashboard – Excel & Power BI]https://github.com/Ahmedtarek1123/Excel-Data-Analysis 
 - 🎓 [Student Performance Analysis](https://github.com/Ahmedtarek1123/student-data)
 
